@@ -5,7 +5,9 @@ The starter section contains all data needed.
 This is the introduction.
 
 ##Purpose
+This the purpose section.
 
 ##Deployment
+The depolyment section is ready.
 
 ##How To Contribute
