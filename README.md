@@ -13,4 +13,4 @@ The depolyment section is ready.
 ##How To Contribute
 
 ###Copyright
-2014 Git.Training. 
+2014 Git.Training.This is done. 
