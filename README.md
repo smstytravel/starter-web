@@ -11,6 +11,7 @@ This the purpose section.
 The depolyment section is ready.
 
 ##How To Contribute
+Monster calls you when it's afraid.
 
 ###Copyright
 2014 Git.Training.This is done. 
