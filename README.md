@@ -11,3 +11,6 @@ This the purpose section.
 The depolyment section is ready.
 
 ##How To Contribute
+
+###Copyright
+2014 Git.Training. 
