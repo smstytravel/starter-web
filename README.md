@@ -1,5 +1,5 @@
 #Starter Web project
-The starter section contains all data needed.
+The starter section contains all data needed. Adding a line for rebasing examples.
 
 ##Introduction
 This is the introduction.
